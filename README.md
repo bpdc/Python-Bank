@@ -17,6 +17,7 @@ The Python Bank is a platform that simulates a digital bank, offering a comprehe
 
 
 ### Tecnologias Utilizadas / Technologies Used 💻
+
 * [Python](https://docs.python.org/pt-br/3/)
 
 ## Versões Necessárias / Required Versions 🔢
@@ -24,43 +25,44 @@ The Python Bank is a platform that simulates a digital bank, offering a comprehe
 <p>Para que esta aplicação funcione corretamente em sua máquina, é necessário que você tenha as seguintes versões instaladas. <strong> [pt_br] </strong> <br></p>
 <p>To ensure this application works correctly on your machine, you need to have the following versions installed. <strong> [en] </strong></p>
 
-* HTML - Versão: 5.0 <strong> [pt_br] </strong>
-* HTML - Version: 5.0 <strong> [en] </strong>
-* CSS - Versão: 3.0  <strong> [pt_br] </strong>
-* CSS - Version: 3.0 <strong> [en] </strong>
-* JavaScript - ES6 ou superior (ECMAScript 2015+) <strong> [pt_br] </strong>
-* JavaScript - ES6 or higher (ECMAScript 2015+) <strong> [en] </strong>
+* Python - Versão: 3.0 ou superior <strong> [pt_br] </strong>
+* Python - Version: 5.0 or higher <strong> [en] </strong>
+
+## Bibliotecas Utilizadas / Libraries Used 📖
+
+* random - (importada para gerar números aleatórios)<strong> [pt_br] </strong>
+* random - (imported for generating random numbers) <strong> [en] </strong>
+* os - (importada para operações específicas do sistema, como limpar o terminal)<strong> [pt_br] </strong>
+* os - (imported for system-specific operations like clearing the terminal)v<strong> [en] </strong>
+* string - (importada para operações com strings, embora não seja usada diretamente no código fornecido)<strong> [pt_br] </strong>
+* string - (imported for string operations, though it's not directly used in the provided code) <strong> [en] </strong>
 
 ## Como rodar a aplicação Right Weather / how to run the Right Weather application ✅
 ### Pré-Requisitos / Prerequisites
-* Navegador web atualizado (Google Chrome, Firefox, Safari, etc.). <strong> [pt_br] </strong>
-* Updated web browser (Google Chrome, Firefox, Safari, etc.). <strong> [en] </strong>
+* Verificar se você possui o Python instalado e sua versão é adequada para o programa. <strong> [pt_br] </strong>
+* Ensure you have Python installed and check if its version is suitable for running the program. <strong> [en] </strong>
 
 <ol>
     <li><strong>Clone o Repositório / Clone the repository </strong>
         <p>Clone o repositório do GitHub para a sua máquina local usando o comando: <strong> [pt_br] </strong></p>
         <p>Clone the GitHub repository to your local machine using the command: <strong> [en] </strong></p>
-        <pre><code>git clone https://github.com/seu-usuario/right-weather.git</code></pre>
+        <pre><code>git clone https://github.com/user-attachments/python-bank.git
+</code></pre>
     </li>
-    <li><strong>Navegue até o Diretório do Projeto / Navigate to the project directory </strong> 
-        <p>Navegue até o diretório do projeto usando o comando: <strong> [pt_br] </strong></p>
-        <p>Navigate to the project directory using the command: <strong> [en] </strong></p>
-        <pre><code>cd right-weather</code></pre>
-    </li>
-    <li><strong>Abra o Arquivo <code>index.html</code> no Navegador / Open the file <code>index.html</code> in your browser</strong>
-        <p>Abra o arquivo <code>index.html</code> diretamente no seu navegador web. Se estiver utilizando um editor de código como o VS Code, você pode abrir o terminal e usar a extensão Live Server para iniciar um servidor local. <strong> [pt_br] </strong></p>
-        <p>Open the file <code>index.html</code> directly in your web browser. If you're using a code editor like VS Code, you can open the terminal and use the Live Server extension to start a local server. <strong> [en] </strong></p>
+    <li><strong>Abra o Arquivo em um editor de código / Open the file in a code editor.</strong>
+        <p> Abra o arquivo <code>PythonBank.py</code> no seu editor de código e execute-o clicando no botão de play. <strong> [pt_br] </strong></p>
+        <p>Open the file <code>PythonBank.py</code> in your code editor and run it using the play button. <strong> [en] </strong></p>
     </li>
     <li><strong>Utilize a aplicação / Use the application </strong>
-        <p>No navegador, você verá a interface da aplicação Right Weather. Insira o nome de uma cidade e clique no botão de busca ou aperte Enter para ver a previsão do tempo atualizada. <strong> [pt_br] </strong> </p>
-        <p>In your browser, you will see the interface of the Right Weather application. Enter the name of a city and click the search button or press Enter to view the updated weather forecast. <strong> [en] </strong></p>
+        <p>Agora interaja com o programa. Explore as diferentes opções disponíveis no menu para registrar sua conta bancária, fazer depósitos, saques, verificar seu saldo e histórico de transações. <strong> [pt_br] </strong> </p>
+        <p>Now interact with the program. Explore the different options available in the menu to register your bank account, make deposits, withdrawals, check your balance, and transaction history. <strong> [en] </strong></p>
     </li>
 </ol>
 
-## 📌 Right Weather - Informações importantes sobre a aplicação / Right Weather - Important Information about the Application 📌
+## 📌Python Bank - Informações importantes sobre a aplicação / Python Bank - Important Information about the Application 📌
 
-<p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador. <strong> [pt_br] </strong> </p>
-<p>This project was developed as an exercise to learn how to <strong>manipulate an API and integrate it with the frontend.</strong> I followed the tutorial from the YouTube channel <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, replicating the steps on my own computer. <strong> [en] </strong></p>
+<p>Este foi um projeto individual que desenvolvi no ano de 2023, durante o primeiro semestre do curso de Bacharelado em Sistemas de Informação na Faculdade de Computação e Informática (FCI) da Universidade Presbiteriana Mackenzie, como parte da disciplina Algoritmos de Programação I. <strong> [pt_br] </strong> </p>
+<p>This was an individual project I developed in 2023, during the first semester of the Bachelor's degree in Information Systems at the Faculty of Computing and Informatics (FCI) at Mackenzie Presbyterian University, as part of the Algorithms of Programming I course.<strong> [en] </strong></p>
 
 ## Aplicação em Funcionamento / Application in Operation ▶️
 
