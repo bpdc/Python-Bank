@@ -145,7 +145,7 @@ def menu():
     os.system('cls')
     
     linhas()
-    printred('SEJA BEM-VINDO(A) AO MACK BANCO DIGITAL')    
+    printred('SEJA BEM-VINDO(A) Python Bank')    
     linhas()
     printblue('MENU PRINCIPAL:')
     
