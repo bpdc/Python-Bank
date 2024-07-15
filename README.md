@@ -26,7 +26,7 @@ The Python Bank is a platform that simulates a digital bank, offering a comprehe
 <p>To ensure this application works correctly on your machine, you need to have the following versions installed. <strong> [en] </strong></p>
 
 * Python - Versão: 3.0 ou superior <strong> [pt_br] </strong>
-* Python - Version: 5.0 or higher <strong> [en] </strong>
+* Python - Version: 3.0 or higher <strong> [en] </strong>
 
 ## Bibliotecas Utilizadas / Libraries Used 📖
 
