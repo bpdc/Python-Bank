@@ -1,7 +1,3 @@
-# INTEGRANTE:
-
-# BEATRIZ PIMENTA DE CAMARGO - 42339561
-
 # DIFERENCIAS NO PROGRAMA:
 
 # VALIDAÇÃO DO EMAIL (@ .COM)
@@ -170,7 +166,7 @@ def opcao1():
     global listaconta
 
     #SOMENTE PARA TESTE
-    # listaconta = [ 2120, "Beatriz Pimenta de Camargo", "998727103", "beatriz@gmail.com", 1000, 500, '123456' ]
+    # listaconta = [ 2120, "Maria", "123456789", "maria@gmail.com", 1000, 500, '123456' ]
     # return
 
     # VALIDAÇÃO DE APENAS UM CLIENTE 
