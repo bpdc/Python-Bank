@@ -8,7 +8,7 @@ If you enjoyed the project, leave a ⭐️<strong> [en] </strong>
 O Python Bank é uma <strong>plataforma que simula um banco digital,</strong> oferecendo uma experiência completa de serviços bancários, incluindo cadastro de conta, depósito, saque, consulta de saldo e extrato. Com validações de login e um design intuitivo, proporcionamos segurança e facilidade para operações financeiras. Abaixo, você pode visualizar imagens desta aplicação 👇<strong> [pt_br] </strong> 
 <br>
 <br>
-The Python Bank is a platform that simulates a digital bank, offering a comprehensive range of banking services including account registration, deposit, withdrawal, balance inquiry, and statement viewing. With login validations and an intuitive design, we provide security and ease for financial transactions. Below, you can view images of this application 👇 <strong> [en] </strong>
+The Python Bank is a <strong>platform that simulates a digital bank,</strong> offering a comprehensive range of banking services including account registration, deposit, withdrawal, balance inquiry, and statement viewing. With login validations and an intuitive design, we provide security and ease for financial transactions. Below, you can view images of this application 👇 <strong> [en] </strong>
 
 <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/f431c2e1-1122-44b6-822e-8c4417054253" alt="Imagem 1" style="width: 355px;">
