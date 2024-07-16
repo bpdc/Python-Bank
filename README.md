@@ -30,6 +30,9 @@ The Python Bank is a <strong>platform that simulates a digital bank,</strong> of
 
 ## Bibliotecas Utilizadas / Libraries Used 📖
 
+<p>Aqui estão as bibliotecas que foram utilizadas neste projeto. <strong> [pt_br] </strong></p>
+<p>Here are the libraries that were used in this project. <strong> [en] </strong></p>
+
 * random - (importada para gerar números aleatórios)<strong> [pt_br] </strong>
 * random - (imported for generating random numbers) <strong> [en] </strong>
 * os - (importada para operações específicas do sistema, como limpar o terminal)<strong> [pt_br] </strong>
