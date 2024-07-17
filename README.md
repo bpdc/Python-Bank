@@ -40,7 +40,7 @@ The Python Bank is a <strong>platform that simulates a digital bank,</strong> of
 * string - (importada para operações com strings, embora não seja usada diretamente no código fornecido)<strong> [pt_br] </strong>
 * string - (imported for string operations, though it's not directly used in the provided code) <strong> [en] </strong>
 
-## Como rodar a aplicação Right Weather / how to run the Right Weather application ✅
+## Como rodar a aplicação Python Bank / how to run the Python Bank application ✅
 ### Pré-Requisitos / Prerequisites
 * Verificar se você possui o Python instalado e sua versão é adequada para o programa. <strong> [pt_br] </strong>
 * Ensure you have Python installed and check if its version is suitable for running the program. <strong> [en] </strong>
