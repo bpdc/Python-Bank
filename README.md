@@ -72,10 +72,9 @@ The Python Bank is a <strong>platform that simulates a digital bank,</strong> of
 <p>Assista ao vídeo abaixo para ver a aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
 <p>Watch the video below to see our application in action. Don't forget to like the video and leave a comment! <strong> [en] </strong></p>
 
-<a href="https://www.youtube.com/watch?v=dMIC2ZEPs1Q" target="_blank">
-    <img src="https://img.youtube.com/vi/dMIC2ZEPs1Q/0.jpg" width="480" height="280" alt="Assista ao vídeo">
+<a href="https://youtu.be/dMIC2ZEPs1Q" target="_blank">
+    <img src="https://img.youtube.com/vi/dMIC2ZEPs1Q/0.jpg" width="480" alt="Assista ao vídeo">
 </a>
-
 
 ## Entre em Contato / Get in touch 📬
 <p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
