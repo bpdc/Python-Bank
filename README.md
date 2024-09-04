@@ -36,7 +36,7 @@ The Python Bank is a <strong>platform that simulates a digital bank,</strong> of
 * random - (importada para gerar números aleatórios)<strong> [pt_br] </strong>
 * random - (imported for generating random numbers) <strong> [en] </strong>
 * os - (importada para operações específicas do sistema, como limpar o terminal)<strong> [pt_br] </strong>
-* os - (imported for system-specific operations like clearing the terminal)v<strong> [en] </strong>
+* os - (imported for system-specific operations like clearing the terminal) <strong> [en] </strong>
 * string - (importada para operações com strings, embora não seja usada diretamente no código fornecido)<strong> [pt_br] </strong>
 * string - (imported for string operations, though it's not directly used in the provided code) <strong> [en] </strong>
 
